@@ -1,6 +1,6 @@
 #########################################################
 ## File Name: hangman.py                               ##
-## Description: Starter for Hangman project - ICS3U    ##
+## Owner: Aayush Chapagain                             ##
 #########################################################
 import pygame
 import random
