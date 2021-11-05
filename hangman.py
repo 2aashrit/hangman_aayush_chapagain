@@ -2,6 +2,12 @@
 ## File Name: hangman.py                               ##
 ## Owner: Aayush Chapagain                             ##
 #########################################################
+# --------------- FOLLOW ME ON --------------------
+# Linked-in : https://www.linkedin.com/in/2aashrit/
+# Git-hub : https://github.com/2aashrit
+# Facebook : https://www.facebook.com/2aashrit/
+# Instagram : https://www.instagram.com/2aashrit/
+# -------------------------------------------------
 import pygame
 import random
 
